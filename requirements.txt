@@ -1,0 +1,4 @@
+#Following are the libraries that are installed using the pip command.
+pygame library
+gTTS (Google Text-to-Speech) 
+pytest
